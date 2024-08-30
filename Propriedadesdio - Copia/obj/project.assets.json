@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renan\\Propriedadesdio\\Propriedadesdio.csproj",
+      "projectUniqueName": "C:\\Users\\renan\\simthisiscommit\\registronomes\\Propriedadesdio - Copia\\Propriedadesdio.csproj",
       "projectName": "Propriedadesdio",
-      "projectPath": "C:\\Users\\renan\\Propriedadesdio\\Propriedadesdio.csproj",
+      "projectPath": "C:\\Users\\renan\\simthisiscommit\\registronomes\\Propriedadesdio - Copia\\Propriedadesdio.csproj",
       "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renan\\Propriedadesdio\\obj\\",
+      "outputPath": "C:\\Users\\renan\\simthisiscommit\\registronomes\\Propriedadesdio - Copia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renan\\AppData\\Roaming\\NuGet\\NuGet.Config"

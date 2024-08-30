@@ -12,3 +12,18 @@ C:\Users\renan\Propriedadesdio\obj\Debug\net8.0\refint\Propriedadesdio.dll
 C:\Users\renan\Propriedadesdio\obj\Debug\net8.0\Propriedadesdio.pdb
 C:\Users\renan\Propriedadesdio\obj\Debug\net8.0\Propriedadesdio.genruntimeconfig.cache
 C:\Users\renan\Propriedadesdio\obj\Debug\net8.0\ref\Propriedadesdio.dll
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\bin\Debug\net8.0\Propriedadesdio.exe
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\bin\Debug\net8.0\Propriedadesdio.deps.json
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\bin\Debug\net8.0\Propriedadesdio.runtimeconfig.json
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\bin\Debug\net8.0\Propriedadesdio.dll
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\bin\Debug\net8.0\Propriedadesdio.pdb
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\obj\Debug\net8.0\Propriedadesdio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\obj\Debug\net8.0\Propriedadesdio.AssemblyInfoInputs.cache
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\obj\Debug\net8.0\Propriedadesdio.AssemblyInfo.cs
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\obj\Debug\net8.0\Propriedadesdio.csproj.CoreCompileInputs.cache
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\obj\Debug\net8.0\Propriedadesdio.sourcelink.json
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\obj\Debug\net8.0\Propriedadesdio.dll
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\obj\Debug\net8.0\refint\Propriedadesdio.dll
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\obj\Debug\net8.0\Propriedadesdio.pdb
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\obj\Debug\net8.0\Propriedadesdio.genruntimeconfig.cache
+C:\Users\renan\simthisiscommit\registronomes\Propriedadesdio - Copia\obj\Debug\net8.0\ref\Propriedadesdio.dll
